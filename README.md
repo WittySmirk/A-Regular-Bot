@@ -3,6 +3,8 @@
 A Discord bot made for hackweek 2019 that does regular things.
 Made by a Regular Show fan for Regular Show fans that own discord servers.
 
+You can add this bot to your own server using the link: https://discordapp.com/oauth2/authorize?client_id=563934600192065537&scope=bot&permissions=2146958847 (It is hosted 24/7-365)
+
 ## Test Server
 Before we get too deep into the commands and such, here is the test server: https://discord.gg/HeaKP5s
 
