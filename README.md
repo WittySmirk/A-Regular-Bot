@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## A Regular Bot
 
-You can use the [editor on GitHub](https://github.com/WittySmirk/A-Regular-Bot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A Discord bot made for hackweek 2019 that does regular things.
+Made by a Regular Show fan for Regular Show fans that own discord servers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Test Server
+Before we get too deep into the commands and such, here is the test server: https://discord.gg/HeaKP5s
 
-### Markdown
+##Commands
+Here are all of the commands for the bot:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+--Games--
+1. ping
+2. 8ball 'whatever your question is'
+3. punchees(activated punchees game)
+4. punch
+5. rps
+6. doughnut
+7. milkchallenge
+8. prankthetree
 
-```markdown
-Syntax highlighted code block
+--Utilites--
+1. help
+2. kick 'tag of user you want to kick'
+3. ban 'tag of user you want to ban'
+4. clear '# of messages you wish to clear'
 
-# Header 1
-## Header 2
-### Header 3
+--Jokes and Gifs--
+1. getroasted
+2. setupthechairs
+3. freecake
+4. summertime
+5. bingo
+6. omg
+7. OMG(the same as above just tries to detect it better)
+8. 😢
+9. 😠
+10. 🤣
+11. time
+12. challenge
 
-- Bulleted
-- List
+--Raps and Videos--
+1. hummus
+2. usa
+3. 2
 
-1. Numbered
-2. List
+--Personal--
+1. profile(mainly experimental doesn't really adapt much)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WittySmirk/A-Regular-Bot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I hope you enjoy using this bot as much as I did making it and participating in this jam! :)
