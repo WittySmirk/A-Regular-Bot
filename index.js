@@ -139,7 +139,7 @@ bot.on('message', message=>{
 
         //utilites
         case 'help':
-            message.reply("Check out the documentation of commands here: (PUT LINK HERE)");
+            message.reply("Check out the documentation of commands here: https://github.com/WittySmirk/A-Regular-Bot");
         break;
 
         case 'kick':
