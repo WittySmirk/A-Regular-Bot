@@ -3,10 +3,10 @@
 A Discord bot made for hackweek 2019 that does regular things.
 Made by a Regular Show fan for Regular Show fans that own discord servers.
 
-##Test Server
+## Test Server
 Before we get too deep into the commands and such, here is the test server: https://discord.gg/HeaKP5s
 
-##Commands
+## Commands
 Here are all of the commands for the bot:
 
 --Games--
