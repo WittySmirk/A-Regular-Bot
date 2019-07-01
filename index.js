@@ -171,7 +171,7 @@ bot.on('message', message=>{
                 const bmember = message.guild.member(buser);
 
                 if(bmember){
-                    bmember.ban({ression: "Someone used that mighty ban hammer on you!"}).then(() =>{
+                    bmember.ban({reason: "Someone used that mighty ban hammer on you!"}).then(() =>{
                         message.reply(`WE BANNNED ${buser.tag}!! OHHHHHHHHHH`);
                     });
                 } else{
